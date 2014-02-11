@@ -23,7 +23,12 @@
 
         <!-- Add your site or application content here -->
         <p>Hello world! This is HTML5 Boilerplate.</p>
-
+        
+        
+        
+        <div id="spinner" class="spinner" style="display:none;">
+            <img id="img-spinner" src="images/spinner.gif" alt="Loading"/>
+        </div>  
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
